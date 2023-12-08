@@ -1,0 +1,90 @@
+body {
+  text-align: center;
+  margin: 0;
+  
+
+
+
+}
+
+#mundo {  
+  margin: 64px auto 64px;
+  
+  
+
+
+
+}
+
+#mundo img {
+margin: 0 auto 32px;
+
+}
+
+
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+  font-size: 32px;
+  margin-bottom: 16px;
+
+
+  
+
+
+}
+
+h1 span {
+
+font-weight: bold;
+color: #EE24FF;
+
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 22px;
+  color: #828282;
+  margin-bottom: 64px;
+
+}
+
+p span {
+
+  color: #3F3D56;
+  font-weight: bold;
+  
+
+
+}
+  #line{
+
+  width: 391px;
+  height: 0px;
+  margin: 0 auto 16px;
+  border: 1px solid #ECEFF2;
+
+
+}
+
+
+
+#footer span {
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  margin-left: 42px;
+  color: #3F3D56;
+  width: 66px;
+
+}
+
+  #wave {
+
+  width: 1024px;
+  height: 104px;
+  
+
+}
